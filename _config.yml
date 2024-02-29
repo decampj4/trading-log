@@ -1,6 +1,6 @@
 title: Trading Log
 author: decampj4
-description: 
+description: ----
 remote_theme: pages-themes/midnight@v0.2.0 # https://github.com/pages-themes/midnight
 plugins:
 - jekyll-remote-theme
