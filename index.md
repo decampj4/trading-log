@@ -15,4 +15,4 @@ half of the year. Therefore, I didn't mind owning at the previous, pre-earnings 
 
 Get assigned or buy back for ~50% of max profit
 
-![trade 1](/trades/trade1.md)
+![trade 1](/trading-log/trades/trade1.md)
