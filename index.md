@@ -13,4 +13,4 @@ half of the year. Therefore, I didn't mind owning at the previous, pre-earnings 
 
 #### Trade plan
 
-Get assigned or buy back for ~50% profit
+Get assigned or buy back for ~50% of max profit
