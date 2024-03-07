@@ -14,3 +14,15 @@ half of the year. Therefore, I didn't mind owning at the previous, pre-earnings 
 #### Trade plan
 
 Get assigned or buy back for ~50% of max profit
+
+## 2024-03-07
+
+### Sold $UPST Apr 5 2024 26 Put
+
+A previous sold put that I had open on $UPST at the $25 strike hit my ~50% profit target and closed this morning. This is an opportunity to continue to sell volatility and get long theta on $UPST and the logic from my previous put sale on 2024-02-27 still holds. I still anticipate getting assigned on a put sold at a strike of $32.50, so continuing to have exposure to either get assigned more shares at a lower strike or reduce the loss on the overall position via theta decay is advantageous. Further, if I get assigned on this position and assuming that I've been assigned the shares from the $32.50 put, it gives me the opportunity to start selling a call against 100 shares and let the remaining 100 be exposed to my expected upside as rates drop in the latter half of the year
+
+![UPST Chart](/trading-log/docs/assets/2024-03-07-upst.png)
+
+#### Trade plan
+
+Get assigned or buy back for ~50% of max profit
