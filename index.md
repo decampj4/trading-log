@@ -26,3 +26,15 @@ A previous sold put that I had open on $UPST at the $25 strike hit my ~50% profi
 #### Trade plan
 
 Get assigned or buy back for ~50% of max profit
+
+## 2024-03-14
+
+### Sold $UPST Apr 26 2024 23 Put
+
+More or less the same logic as the previous trades on $UPST. PPI came in hot, which caused inflation expectations to change and the number of potential FED rate cuts to decrease, which pushed down small caps, particularly $UPST with its balance sheet full of loans that it would otherwise seek to sell. Until FED rates come down, $UPST is suceptible to this risk. All the more reason as well to sell a 43 DTE option rather than ~30 DTE to give myself time and padding with the amount of premium collected. Again, another opportunity to average down. This is now my maximum exposure that I'm willing to have to $UPST.
+
+#### Trade plan
+
+Get assigned or buy back for ~50% of max profit
+
+![UPST Chart](/trading-log/docs/assets/2024-03-14-upst.png)
