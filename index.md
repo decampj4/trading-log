@@ -62,3 +62,15 @@ With the market viewing rate cuts later in the year as more likely and two of my
 Get assigned or buy back for ~50% of max profit
 
 ![UPST Chart](/trading-log/docs/assets/2024-03-20-upst.png)
+
+## 2024-03-21
+
+### Sold $UPST Apr 12 2024 28 Put
+
+This trade is a continuation of my bullish and aggressive put selling on $UPST and was executed after an existing Apr 5 $26 put hit my profit target and was automatically repurchased. I was the most aggressive that I've been yet with my put selling, slightly in the money and 22 days out. It still gives me some cushion if $UPST reverses this trend and this strike is still significantly under my cost basis of the shares assigned at $32.50. It is pertinent to point out that $UPST biggest risk at this point is significant renewed inflation expectations. AS much as the FED seemed to confirm 3 rate cuts into the end of the year, there is still a case to be made the inflation, especially super core inflation, picks back up. As this position plays out over the next couple weeks, I'm going to bear that in mind when it comes to any potential opportunities to reposition or potentially derisk in general. I remain at my maximum allocation to this position and if we start to approach my current cost basis of $32.50, I intend to walk back my exposure to ~50% allocation.
+
+#### Trade plan
+
+Get assigned or buy back for ~50% of max profit
+
+![UPST Chart](/trading-log/docs/assets/2024-03-21-upst.png)
