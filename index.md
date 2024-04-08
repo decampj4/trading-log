@@ -89,12 +89,12 @@ Hold these shares as the part of core long position and sell covered calls as th
 
 ## 2024-04-08
 
-### Rolled $UPST Apr 12 2024 28 Put to May 3 2024 27 Put
+### Rolled $UPST Apr 12 2024 28 Put to May 3 2024 27 Put and rolled $UPST Apr 26 2024 27 Put to May 10 2024 26 Put
 
-Two things happened last week that seem to increase the possibility that the fed will remain higher for longer: 1. A strong jobs report 2. Fed speakers said so. While these are relatively simplistic reasons, the market seemed to take them seriously, at least to some extent. The consequence of the rate lower probability repricing means that $UPST's value suffered accordingly. Therefore, it seemed to make sense to be able to roll out the put I had expiring this week. It decreases my positive delta exposure, but I could roll for a small credit and increase my positive theta. With this roll, I get paid to make my position a little more defensive.
+Two things happened last week that seem to increase the possibility that the fed will remain higher for longer: 1. A strong jobs report 2. Fed speakers said so. While these are relatively simplistic reasons, the market seemed to take them seriously, at least to some extent. The consequence of the rate lower probability repricing means that $UPST's value suffered accordingly. Therefore, it seemed to make sense to be able to roll out these puts. It decreases my positive delta exposure, but I could roll for a small credit and increase my positive theta. With this roll, I get paid to make my position a little more defensive.
 
 #### Trade plan
 
-Hold this put until expiration and get assigned or buy it back for the same target price that I had for the previous put before I rolled ($1.00)
+Hold these puts until expiration and get assigned or buy it back for the same target price that I had for the previous puts before I rolled ($1.00)
 
 ![UPST Chart](/trading-log/docs/assets/2024-03-25-upst.png)
