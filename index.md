@@ -97,4 +97,16 @@ Two things happened last week that seem to increase the possibility that the fed
 
 Hold these puts until expiration and get assigned or buy it back for the same target price that I had for the previous puts before I rolled ($1.00)
 
-![UPST Chart](/trading-log/docs/assets/2024-03-25-upst.png)
+![UPST Chart](/trading-log/docs/assets/2024-04-08-upst.png)
+
+## 2024-04-09
+
+### Sold $PLTR May 3 2024 23 Put
+
+I've been looking for a way to get long $PLTR for a bit now. Some of the euphoria from earnings seems to have faded and it getting some long delta and theta on another more volatile stock like $PLTR helps my overall portfolio. The strike is before earnings, which moderately reduces my risk. Overall, this doesn't seem like the worst potential entry if I get assigned
+
+#### Trade plan
+
+Hold these puts until expiration and get assigned or buy it back for about 60-70% of max profit
+
+![UPST Chart](/trading-log/docs/assets/2024-04-09-pltr.png)
