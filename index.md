@@ -107,6 +107,18 @@ I've been looking for a way to get long $PLTR for a bit now. Some of the euphori
 
 #### Trade plan
 
-Hold these puts until expiration and get assigned or buy it back for about 60-70% of max profit
+Hold this put until expiration and get assigned or buy it back for about 60-70% of max profit
 
-![UPST Chart](/trading-log/docs/assets/2024-04-09-pltr.png)
+![PLTR Chart](/trading-log/docs/assets/2024-04-09-pltr.png)
+
+## 2024-04-10
+
+### Sold $PLTR May 3 2024 22.5 Put
+
+A drop in the overall market as a reaction to inflation data gives me the chance to allocate a little more to $PLTR before earnings. Same logic as above, just want to get exposure now that the runup euphoria has faded and collect some premium before earnings
+
+#### Trade plan
+
+Hold these this until expiration and get assigned or buy it back for about 60-70% of max profit
+
+![PLTR Chart](/trading-log/docs/assets/2024-04-10-pltr.png)
