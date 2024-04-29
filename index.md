@@ -122,3 +122,15 @@ A drop in the overall market as a reaction to inflation data gives me the chance
 Hold these this until expiration and get assigned or buy it back for about 60-70% of max profit
 
 ![PLTR Chart](/trading-log/docs/assets/2024-04-10-pltr.png)
+
+## 2024-04-26
+
+### Rolled $PLTR May 3 2024 22.5 Put to a May 10 2024 22.5 Put
+
+The May 3rd put hit my profit target and then I wanted to get collect earnings volatility premium
+
+#### Trade plan
+
+Hold these this until expiration and get assigned or buy it back for about 60-70% of max profit
+
+![PLTR Chart](/trading-log/docs/assets/2024-04-26-pltr.png)
