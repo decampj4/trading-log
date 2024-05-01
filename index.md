@@ -127,7 +127,7 @@ Hold these this until expiration and get assigned or buy it back for about 60-70
 
 ### Rolled $PLTR May 3 2024 22.5 Put to a May 10 2024 22.5 Put
 
-The May 3rd put hit my profit target and then I wanted to get collect earnings volatility premium
+The May 3rd put hit my profit target and then I wanted to collect earnings volatility premium
 
 #### Trade plan
 
@@ -146,3 +146,13 @@ Taking advantage of a ~5% rise in $UPST's stock price, I sold this call to get s
 Hold this until expiration
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-01-upst.png)
+
+### Rolled $PLTR May 3 2024 23 Put to a May 10 2024 23 Put
+
+The May 3rd put hit my profit target and then I wanted to collect earnings volatility premium
+
+#### Trade plan
+
+Hold these this until expiration and get assigned or buy it back for about 60-70% of max profit
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-01-pltr.png)
