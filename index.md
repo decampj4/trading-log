@@ -134,3 +134,15 @@ The May 3rd put hit my profit target and then I wanted to get collect earnings v
 Hold these this until expiration and get assigned or buy it back for about 60-70% of max profit
 
 ![PLTR Chart](/trading-log/docs/assets/2024-04-26-pltr.png)
+
+## 2024-05-01
+
+### Sold $UPST May 10 2024 30 Call
+
+Taking advantage of a ~5% rise in $UPST's stock price, I sold this call to get some exposure to earnings volatility. With this call sold, I now have an earnings straddle for $UPST's earnings with the upside being covered by my existing stock
+
+#### Trade plan
+
+Hold this until expiration
+
+![UPST Chart](/trading-log/docs/assets/2024-05-01-upst.png)
