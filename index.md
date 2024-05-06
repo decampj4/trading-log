@@ -156,3 +156,11 @@ The May 3rd put hit my profit target and then I wanted to collect earnings volat
 Hold these this until expiration and get assigned or buy it back for about 60-70% of max profit
 
 ![PLTR Chart](/trading-log/docs/assets/2024-05-01-pltr.png)
+
+## 2024-05-06
+
+### Closed $PLTR May 10 2024 23 Put and May 3 2024 22.5 Put
+
+I wanted to take advantage of a 6% run up in $PLTR and take risk off the table. I closed both of these for a little less than 50% profit
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-06-pltr.png)
