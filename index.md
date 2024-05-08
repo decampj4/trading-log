@@ -164,3 +164,23 @@ Hold these this until expiration and get assigned or buy it back for about 60-70
 I wanted to take advantage of a 6% run up in $PLTR and take risk off the table. I closed both of these for a little less than 50% profit
 
 ![PLTR Chart](/trading-log/docs/assets/2024-05-06-pltr.png)
+
+## 2024-05-07
+
+### Sold $PLTR May 24 2024 21.5 Put
+
+After the post earnings drop, this seems like another good potential long entry point
+
+#### Trade plan
+
+Hold this position until expiration and get assigned or buy it back for about 60-70% of max profit
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-07-pltr.png)
+
+## 2024-05-08
+
+### Bought to close $UPST May 10 2024 30 Call
+
+After the post earnings drop, I closed this position for a >80% profit on the position
+
+![UPST Chart](/trading-log/docs/assets/2024-05-08-upst.png)
