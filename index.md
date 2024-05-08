@@ -184,3 +184,13 @@ Hold this position until expiration and get assigned or buy it back for about 60
 After the post earnings drop, I closed this position for a >80% profit on the position
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-08-upst.png)
+
+### Sold to open $PLTR May 31 2024 21.5 Put
+
+Adding to my post earnings drop position on $PLTR, but with a slighly longer duration to collect more premium upfront
+
+#### Trade plan
+
+Hold this position until expiration and get assigned or buy it back for about 60-70% of max profit
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-08-pltr.png)
