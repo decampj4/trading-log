@@ -211,3 +211,26 @@ Close the put at ~60% profit and close the call for $0.10 or let the shares get 
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-09-upst.png)
 
+## 2024-05-14
+
+### Bought to close $UPST May 31 2024 26 Put
+
+This put was bought back automatically when it hit my price target
+
+### Rolled $UPST May 31 2024 29 Call to June 14 2024 30 Call
+
+I rolled this up and out for a credit in order to take advantage of $UPST run up (seemingly a sympathy move with $GME)
+
+#### Trade plan
+
+Close for $0.10 or let the shares get called away at expiration
+
+### Sold to open $UPST May 24 2024 27 Put and May 24 2024 32 Call
+
+Again, I wanted to maintain sold put exposure and capitalize on the continued run up in $UPST, so I effectively sold a 10 DTE strangle
+
+#### Trade plan
+
+Close each leg when it hits ~60% profit
+
+![UPST Chart](/trading-log/docs/assets/2024-05-14-upst.png)
