@@ -234,3 +234,11 @@ Again, I wanted to maintain sold put exposure and capitalize on the continued ru
 Close each leg when it hits ~60% profit
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-14-upst.png)
+
+## 2024-05-15
+
+### Bought to close $UPST May 24 2024 32 Call
+
+This call was bought back automatically when it hit my price target
+
+![UPST Chart](/trading-log/docs/assets/2024-05-15-upst.png)
