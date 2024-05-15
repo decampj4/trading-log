@@ -194,3 +194,20 @@ Adding to my post earnings drop position on $PLTR, but with a slighly longer dur
 Hold this position until expiration and get assigned or buy it back for about 60-70% of max profit
 
 ![PLTR Chart](/trading-log/docs/assets/2024-05-08-pltr.png)
+
+## 2024-05-09
+
+### Bought to close $UPST May 10 2024 26 Put
+
+This put was bought back automatically when it hit my price target
+
+### Sold to open $UPST May 31 2024 26 Put and May 31 2024 29 Call
+
+I wanted to maintain sold put exposure and capitalize on the run up in $UPST, so I effectively sold a 22 DTE strangle
+
+#### Trade plan
+
+Close the put at ~60% profit and close the call for $0.10 or let the shares get called away at expiration
+
+![UPST Chart](/trading-log/docs/assets/2024-05-09-upst.png)
+
