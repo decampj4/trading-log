@@ -242,3 +242,21 @@ Close each leg when it hits ~60% profit
 This call was bought back automatically when it hit my price target
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-15-upst.png)
+
+## 2024-05-17
+
+### Rolled $PLTR May 24 2024 21.5 Put to June 7 2024 21.5 Put
+
+The put hit my price target, so I rolled it out by 14 days to pick up more theta
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-17-pltr.png)
+
+### Sold $UPST 23/30 June 14 2024 Strangle
+
+I want to continue to get long theta exposure and short volatility on $UPST. Moreover, I have enough upside exposure in this position, so the relatively delta neutral strangle made sense here. In the best/worst case scenarios, some of my shares get called away or I reduce my cost basis significantly.
+
+#### Trade plan
+
+Close each leg when it hits ~60% profit
+
+![UPST Chart](/trading-log/docs/assets/2024-05-17-upst.png)
