@@ -260,3 +260,19 @@ I want to continue to get long theta exposure and short volatility on $UPST. Mor
 Close each leg when it hits ~60% profit
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-17-upst.png)
+
+## 2024-05-21
+
+### Rolled $UPST 23/30 June 14 2024 Strangle to 23/28.5 June 21 2024 Strangle
+
+I made money on the call leg and broke even on the put leg, so it seemed logical to roll this out time wise and move the call lower to pick up more premium and a little more delta sensitivity in the call side, which makes this a bit of a downside hedge.
+
+#### Trade plan
+
+Close each leg when it hits ~60% profit
+
+![UPST Chart](/trading-log/docs/assets/2024-05-20-upst.png)
+
+### Bought to close $UPST June 14 2024 30 Call
+
+With $UPST down today, it felt like a good opportunity to close this position for a signifant profit (not quite my price target, but close enough to take the win, especially with 24 DTE left on the option). As this week shakes out, I want to look at re-selling a call on $UPST to continue to hedge my considerable long position here.
