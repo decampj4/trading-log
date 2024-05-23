@@ -281,7 +281,7 @@ With $UPST down today, it felt like a good opportunity to close this position fo
 
 ### Rolled $PLTR May 31 2024 21.5 Put to June 21 2024 21 Put
 
-With another strong jobs report and hawkish Fed meeting minutes yesterday, the market down turn encouraged me to take a bit of risk off the table. Therefore, I rolled on of my $PLTR puts out and down, especially considering this put had very little extrinsic value left in it
+With another strong jobs report and hawkish Fed meeting minutes yesterday, the market down turn encouraged me to take a bit of risk off the table. Therefore, I rolled one of my $PLTR puts out and down. I was further encouraged to do so because this put had very little extrinsic value left in it
 
 #### Trade plan
 
