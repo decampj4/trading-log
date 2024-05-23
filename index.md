@@ -276,3 +276,15 @@ Close each leg when it hits ~60% profit
 ### Bought to close $UPST June 14 2024 30 Call
 
 With $UPST down today, it felt like a good opportunity to close this position for a signifant profit (not quite my price target, but close enough to take the win, especially with 24 DTE left on the option). As this week shakes out, I want to look at re-selling a call on $UPST to continue to hedge my considerable long position here.
+
+## 2024-05-23
+
+### Rolled $PLTR May 31 2024 21.5 Put to June 21 2024 21 Put
+
+With another strong jobs report and hawkish Fed meeting minutes yesterday, the market down turn encouraged me to take a bit of risk off the table. Therefore, I rolled on of my $PLTR puts out and down, especially considering this put had very little extrinsic value left in it
+
+#### Trade plan
+
+Buy this put back at ~60% of max profit or roll it out near expiration and/or when there's minimal extrinsic value present in the contract
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-23-pltr.png)
