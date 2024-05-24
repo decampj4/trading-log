@@ -296,3 +296,9 @@ Buy this put back at ~60% of max profit or roll it out near expiration and/or wh
 With the run up in $PLTR, this was a good opportunity to take some risk off the table for the long weekend. In general, I got a little over extended. The downside is that I'm reducing my position diversity, but that's out-weighed by the desire to reduce risk while $PLTR is at a reasonable price
 
 ![PLTR Chart](/trading-log/docs/assets/2024-05-24-pltr.png)
+
+### Bought to close $UPST June 21 2024 28.5 Put
+
+This call hit my profit target, so I bought it back. Also, with the recent downward price action in $UPST, it felt like a logical moment to remove negative gamma to open myself up to any potential upwards movement in the coming weeks
+
+![UPST Chart](/trading-log/docs/assets/2024-05-24-upst.png)
