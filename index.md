@@ -288,3 +288,11 @@ With another strong jobs report and hawkish Fed meeting minutes yesterday, the m
 Buy this put back at ~60% of max profit or roll it out near expiration and/or when there's minimal extrinsic value present in the contract
 
 ![PLTR Chart](/trading-log/docs/assets/2024-05-23-pltr.png)
+
+## 2024-05-24
+
+### Bought to close $PLTR June 6 2024 21.5 Put and June 21 2024 21 Put
+
+With the run up in $PLTR, this was a good opportunity to take some risk off the table for the long weekend. In general, I got a little over extended. The downside is that I'm reducing my position diversity, but that's out-weighed by the desire to reduce risk while $PLTR is at a reasonable price
+
+![PLTR Chart](/trading-log/docs/assets/2024-05-24-pltr.png)
