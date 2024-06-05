@@ -297,7 +297,7 @@ With the run up in $PLTR, this was a good opportunity to take some risk off the 
 
 ![PLTR Chart](/trading-log/docs/assets/2024-05-24-pltr.png)
 
-### Bought to close $UPST June 21 2024 28.5 Put
+### Bought to close $UPST June 21 2024 28.5 Call
 
 This call hit my profit target, so I bought it back. Also, with the recent downward price action in $UPST, it felt like a logical moment to remove negative gamma to open myself up to any potential upwards movement in the coming weeks
 
@@ -314,3 +314,11 @@ Wanted to take advantage of the run up in $UPST into the end of the week and get
 Buy this put back at ~60% of max profit or roll it out near expiration and/or when there's minimal extrinsic value present in the contract
 
 ![UPST Chart](/trading-log/docs/assets/2024-05-31-upst.png)
+
+## 2024-06-05
+
+### Bought to close $UPST June 21 2024 23 Put
+
+This call hit my profit target and was automatically bought back
+
+![UPST Chart](/trading-log/docs/assets/2024-06-05-upst.png)
