@@ -322,3 +322,13 @@ Buy this put back at ~60% of max profit or roll it out near expiration and/or wh
 This call hit my profit target and was automatically bought back
 
 ![UPST Chart](/trading-log/docs/assets/2024-06-05-upst.png)
+
+### Sold to open $UPST 25/30 June 28 2024 Strangle
+
+After closing the put earlier in the day, I wanted to get more theta exposure on $UPST as well as take advantage of the run up, hence selling the call (which is covered by my shareholding). However, I'm not sure if this run still has another leg in it, so I sold the put side as well, which also nets me more theta and, if assigned, still reduces my cost basis. Overall, this strangle gives me some room to maneuver on both legs and reflects my lack of confidence in both the up and downside.
+
+#### Trade plan
+
+Buy back each leg at ~60% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-06-05-upst_2.png)
