@@ -332,3 +332,11 @@ After closing the put earlier in the day, I wanted to get more theta exposure on
 Buy back each leg at ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-06-05-upst_2.png)
+
+## 2024-06-07
+
+### Bought to close $UPST June 28 2024 30 Call
+
+This call hit my profit target and was bought back
+
+![UPST Chart](/trading-log/docs/assets/2024-06-07-upst.png)
