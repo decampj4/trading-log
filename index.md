@@ -340,3 +340,11 @@ Buy back each leg at ~60% profit or get assigned
 This call hit my profit target and was bought back
 
 ![UPST Chart](/trading-log/docs/assets/2024-06-07-upst.png)
+
+## 2024-06-11
+
+### Bought to close $UPST June 28 2024 28 Call
+
+This call hit my profit target and was bought back
+
+![UPST Chart](/trading-log/docs/assets/2024-06-11-upst.png)
