@@ -360,3 +360,11 @@ I want to get some positive theta back in this position and with the cooler PMI 
 Buy back each leg at ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-03-upst.png)
+
+### Sold to open $UPST August 2 2024 26 Call
+
+I took advantage of the run up late in the day and this gives me a little bit of downside exposure in the case of hot ADP payrolls data on Friday, 7/5/24. Moreover, it's gives me more theta in the position
+
+#### Trade plan
+
+Buy back each leg at ~60% profit or get assigned
