@@ -348,3 +348,15 @@ This call hit my profit target and was bought back
 This call hit my profit target and was bought back
 
 ![UPST Chart](/trading-log/docs/assets/2024-06-11-upst.png)
+
+## 2024-07-03
+
+### Sold to open $UPST July 19 2024 23 Put
+
+I want to get some positive theta back in this position and with the cooler PMI numbers today, I think there might be some upside in store in the coming months, so I don't want to start selling calls yet. If I get assigned on this put, I continue to average down my position. That said, I'm already significantly overweight in this position, so I will consider aggressively selling calls and/or trimming the position as the month progresses.
+
+#### Trade plan
+
+Buy back each leg at ~60% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-07-03-upst.png)
