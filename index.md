@@ -357,7 +357,7 @@ I want to get some positive theta back in this position and with the cooler PMI 
 
 #### Trade plan
 
-Buy back each leg at ~60% profit or get assigned
+Buy back at ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-03-upst.png)
 
@@ -367,4 +367,16 @@ I took advantage of the run up late in the day and this gives me a little bit of
 
 #### Trade plan
 
-Buy back each leg at ~60% profit or get assigned
+Buy back at ~60% profit or get assigned
+
+## 2024-07-09
+
+### Rolled $UPST July 19 2024 23 Put to August 2 2024 24 Put
+
+A bit of a move up in $UPST gave me the opportunity to be more aggressive with this put and work towards moving the current sold call and put into a straddle. As of now, it's a 24/26 strangle, but earnings will probably give me the opportunity to roll to a real staddle. In the meantime, I can collect some more premium and prevent the share price from running away from my put strike
+
+#### Trade plan
+
+Buy back at ~60% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-07-09-upst.png)
