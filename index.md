@@ -380,3 +380,15 @@ A bit of a move up in $UPST gave me the opportunity to be more aggressive with t
 Buy back at ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-09-upst.png)
+
+## 2024-07-10
+
+### Rolled $UPST August 2 2024 24 Put to August 2 2024 26 Put
+
+With the continued move up in $UPST, it seemed to make sense to just complete the roll to a straddle. It increases downside risk, but I'm okay with this tradeoff in order to minimize the chance of missing out on a pre-earnings run up. Moreover, there's enough IV in the August 9 strikes b/c of earnings that it gives me flexibility when it comes to rolling the call or put legs of this straddle. For now, I just want to sit back and let theta eat away at these options.
+
+#### Trade plan
+
+Buy back each leg at ~60% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-07-10-upst.png)
