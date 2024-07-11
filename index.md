@@ -392,3 +392,15 @@ With the continued move up in $UPST, it seemed to make sense to just complete th
 Buy back each leg at ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-10-upst.png)
+
+## 2024-07-11
+
+### Rolled $UPST August 2 2024 26 Call to August 9 2024 29 Call
+
+So I mentioned the rolling flexibility due to earnings yesterday. Well, I ended up using that today. $UPST is getting a huge boost from a cool CPI and increased chances of rate cuts. So in order to not get blown out on the short call, I rolled it out to the 29 strike, above my average trade price for the shares, and will wait out the price action there. I've been aggressively rolling both the call and the put sides or my strangle/straddle position, but I feel like it's warranted to be aggressive with the narrative around rate cuts finally starting to be confirmed and $UPST being such a strong beneficiary
+
+#### Trade plan
+
+Buy back the call ~60% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-07-11-upst.png)
