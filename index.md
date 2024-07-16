@@ -404,3 +404,15 @@ So I mentioned the rolling flexibility due to earnings yesterday. Well, I ended 
 Buy back the call ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-11-upst.png)
+
+## 2024-07-16
+
+### Rolled $UPST August 2 2024 26 Put to August 2 2024 29 Put
+
+The $26 put hit my price target, so I rolled it up to collect more premium before earnings
+
+#### Trade plan
+
+Buy back the call ~60% profit, get assigned, or roll out one week to collect the volatility premium around earnings and make a true earnings straddle with my existing August 9 2024 29 Call.
+
+![UPST Chart](/trading-log/docs/assets/2024-07-16-upst.png)
