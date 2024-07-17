@@ -416,3 +416,15 @@ The $26 put hit my price target, so I rolled it up to collect more premium befor
 Buy back the call ~60% profit, get assigned, or roll out one week to collect the volatility premium around earnings and make a true earnings straddle with my existing August 9 2024 29 Call.
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-16-upst.png)
+
+## 2024-07-17
+
+### Sold $UPST August 2 2024 45 Call
+
+I wanted to pick up some extra premium, basically a free $30. And if I get 100 shares called away at $45 per share, that's a great problem to have
+
+#### Trade plan
+
+Let the option get excercised or expire
+
+![UPST Chart](/trading-log/docs/assets/2024-07-17-upst.png)
