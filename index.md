@@ -440,3 +440,7 @@ I wanted to pick up some premium and negative delta from the run up now that the
 Buy back the call ~80% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-18-upst.png)
+
+### Bought to cloase $UPST August 2 2024 31 Call and  August 2 2024 45 Call
+
+I closed these two calls, including the one I opened earlier today, in violation of my trade plan, because the drop today has been so dramatic. It seems reasonable to take advantage of the drop to buy these calls back for significant profit, especially over the course of a couple hours or about a day in the case of the $31 and $45 strike calls respectively.
