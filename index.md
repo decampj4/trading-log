@@ -428,3 +428,15 @@ I wanted to pick up some extra premium, basically a free $30. And if I get 100 s
 Let the option get excercised or expire
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-17-upst.png)
+
+## 2024-07-18
+
+### Sold $UPST August 2 2024 31 Call
+
+I wanted to pick up some premium and negative delta from the run up now that the run on $UPST looks to be finished. Moreover, this increases my theta as well. With the majority of my options on $UPST expiring before earnings, it gives me a lot of room to roll
+
+#### Trade plan
+
+Buy back the call ~80% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-07-18-upst.png)
