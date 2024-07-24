@@ -444,3 +444,15 @@ Buy back the call ~80% profit or get assigned
 ### Bought to close $UPST August 2 2024 31 Call and  August 2 2024 45 Call
 
 I closed these two calls, including the one I opened earlier today, in violation of my trade plan, because the drop today has been so dramatic. It seems reasonable to take advantage of the drop to buy these calls back for significant profit, especially over the course of a couple hours or about a day in the case of the $31 and $45 strike calls respectively.
+
+## 2024-07-23
+
+### Bought $GOOGL $185 Call 7/26 - 8/30 Calendar Spread
+
+Literally just a slightly bullish earnings bet on $GOOGL to take advantage of IV crush
+
+#### Trade plan
+
+I plan to close tomorrow morning (2024-07-24) if I have a decent profit (%25 of debt to open the spread). I'll also take a look at the overall market and if $QQQ shows signs of weakness and there's no data to back a move up, I'll close this position for a loss
+
+![GOOGL Chart](/trading-log/docs/assets/2024-07-23-googl.png)
