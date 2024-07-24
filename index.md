@@ -441,7 +441,7 @@ Buy back the call ~80% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-18-upst.png)
 
-### Bought to close $UPST August 2 2024 31 Call and  August 2 2024 45 Call
+### Bought to close $UPST August 2 2024 31 Call and August 2 2024 45 Call
 
 I closed these two calls, including the one I opened earlier today, in violation of my trade plan, because the drop today has been so dramatic. It seems reasonable to take advantage of the drop to buy these calls back for significant profit, especially over the course of a couple hours or about a day in the case of the $31 and $45 strike calls respectively.
 
@@ -456,3 +456,21 @@ Literally just a slightly bullish earnings bet on $GOOGL to take advantage of IV
 I plan to close tomorrow morning (2024-07-24) if I have a decent profit (%25 of debt to open the spread). I'll also take a look at the overall market and if $QQQ shows signs of weakness and there's no data to back a move up, I'll close this position for a loss
 
 ![GOOGL Chart](/trading-log/docs/assets/2024-07-23-googl.png)
+
+## 2024-07-23
+
+### Rolled $GOOGL July 26 2024 $185 Call to August 30 2024 $190 Call
+
+Collected the value of the colapse of the value of the July 26 option and this roll also creates a bull call spread ($185/190). If $GOOGL recovers over the next month, then this call spread will pay out. If not, I have reduced the overall loss on this position
+
+#### Trade plan
+
+Close when the aggregate of the calendar spread and the call spread is profitable or close this spread right before expiration
+
+![GOOGL Chart](/trading-log/docs/assets/2024-07-24-googl.png)
+
+### Bought to close $UPST August 9 2024 29 Call
+
+I wanted to take advantage of the drop in $UPST today (~10% drop) in order to collect some value on this position and remove limits on my potential upside
+
+![UPST Chart](/trading-log/docs/assets/2024-07-24-upst.png)
