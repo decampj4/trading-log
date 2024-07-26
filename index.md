@@ -474,3 +474,11 @@ Close when the aggregate of the calendar spread and the call spread is profitabl
 I wanted to take advantage of the drop in $UPST today (~10% drop) in order to collect some value on this position and remove limits on my potential upside
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-24-upst.png)
+
+## 2024-07-25
+
+### Closed $GOOGL $185/190 August 30 2024 Bull Call Spread
+
+I said that I was going to ride this out, but I didn't have any conviction, so I closed it to get the little premium that I could back out of it and limit any further loss on the position
+
+![GOOGL Chart](/trading-log/docs/assets/2024-07-25-googl.png)
