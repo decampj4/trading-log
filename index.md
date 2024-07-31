@@ -461,7 +461,7 @@ I plan to close tomorrow morning (2024-07-24) if I have a decent profit (%25 of 
 
 ### Rolled $GOOGL July 26 2024 $185 Call to August 30 2024 $190 Call
 
-Collected the value of the colapse of the value of the July 26 option and this roll also creates a bull call spread ($185/190). If $GOOGL recovers over the next month, then this call spread will pay out. If not, I have reduced the overall loss on this position
+Collected the money on the collapse of the value of the July 26 option and this roll also creates a bull call spread ($185/190). If $GOOGL recovers over the next month, then this call spread will pay out. If not, I have reduced the overall loss on this position
 
 #### Trade plan
 
@@ -482,3 +482,15 @@ I wanted to take advantage of the drop in $UPST today (~10% drop) in order to co
 I said that I was going to ride this out, but I didn't have any conviction, so I closed it to get the little premium that I could back out of it and limit any further loss on the position
 
 ![GOOGL Chart](/trading-log/docs/assets/2024-07-25-googl.png)
+
+## 2024-07-31
+
+### Sold $UPST August 9 2024 34 Call
+
+Took advantage of the run up in $UPST to open this position to capture any downside movement and capture collapse in volatility post earnings. I may add to this position as earnings nears. It depends on the movement of $UPST as well as if the August 2 2024 29 Put gets closed
+
+#### Trade plan
+
+Buy back the call ~60% profit or get assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-07-31-upst.png)
