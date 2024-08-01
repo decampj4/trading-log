@@ -485,7 +485,7 @@ I said that I was going to ride this out, but I didn't have any conviction, so I
 
 ## 2024-07-31
 
-### Sold $UPST August 9 2024 34 Call
+### Sold to open $UPST August 9 2024 34 Call
 
 Took advantage of the run up in $UPST to open this position to capture any downside movement and capture collapse in volatility post earnings. I may add to this position as earnings nears. It depends on the movement of $UPST as well as if the August 2 2024 29 Put gets closed
 
@@ -494,3 +494,11 @@ Took advantage of the run up in $UPST to open this position to capture any downs
 Buy back the call ~60% profit or get assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-07-31-upst.png)
+
+## 2024-08-01
+
+### Bought to close $UPST August 9 2024 34 Call
+
+Took advantage of the drop in $UPST to close this position for ~40% of max profit, which I felt was very reasonable for a single day holding period
+
+![UPST Chart](/trading-log/docs/assets/2024-08-01-upst.png)
