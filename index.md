@@ -502,3 +502,11 @@ Buy back the call ~60% profit or get assigned
 Took advantage of the drop in $UPST to close this position for ~40% of max profit, which I felt was very reasonable for a single day holding period
 
 ![UPST Chart](/trading-log/docs/assets/2024-08-01-upst.png)
+
+## 2024-08-02
+
+### Rolled $UPST August 2 2024 29 Put to August 9 2024 29
+
+Rolled out this put so that it had exposure to earnings
+
+![UPST Chart](/trading-log/docs/assets/2024-08-02-upst.png)
