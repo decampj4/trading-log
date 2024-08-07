@@ -505,8 +505,24 @@ Took advantage of the drop in $UPST to close this position for ~40% of max profi
 
 ## 2024-08-02
 
-### Rolled $UPST August 2 2024 29 Put to August 9 2024 29
+### Rolled $UPST August 2 2024 29 Put to August 9 2024 29 Put
 
 Rolled out this put so that it had exposure to earnings
 
 ![UPST Chart](/trading-log/docs/assets/2024-08-02-upst.png)
+
+## 2024-08-07
+
+### Bought to close $UPST August 9 2024 29 Put
+
+Automatically closed this as it hit my price target
+
+### Sold to open  $UPST August 16 2024 40 Call
+
+This is the start of taking advantage of the $UPST run up. I am happy to sell a portion of my shares at $40 per share. I will potentially continue to DCA into this (or similar) position as the fallout from earnings plays out
+
+#### Trade plan
+
+Close at ~60% of max profit or get assigned. If the run up continues and the price is hit this week, I may roll out this position to collect more premium before being potentially assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-08-07-upst.png)
