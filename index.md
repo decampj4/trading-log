@@ -517,7 +517,7 @@ Rolled out this put so that it had exposure to earnings
 
 Automatically closed this as it hit my price target
 
-### Sold to open  $UPST August 16 2024 40 Call
+### Sold to open $UPST August 16 2024 40 Call
 
 This is the start of taking advantage of the $UPST run up. I am happy to sell a portion of my shares at $40 per share. I will potentially continue to DCA into this (or similar) position as the fallout from earnings plays out
 
@@ -527,6 +527,6 @@ Close at ~60% of max profit or get assigned. If the run up continues and the pri
 
 ![UPST Chart](/trading-log/docs/assets/2024-08-07-upst.png)
 
-### Bought to close  $UPST August 16 2024 40 Call
+### Bought to close $UPST August 16 2024 40 Call
 
 I saw a 50% profit within a couple hours, so it made sense to close this
