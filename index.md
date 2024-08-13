@@ -548,3 +548,15 @@ Close at ~60% of max profit or get assigned. If the run up continues and the pri
 ### Bought to close $UPST August 23 2024 40 Call
 
 Automatically closed at 60% profit
+
+## 2024-08-13
+
+### Sold to open $UPST August 23 2024 41 Call
+
+Continue to take advantage of the $UPST run up. I am happy to sell a portion of my shares at $41 per share. I will potentially continue to DCA into this (or similar) position as the fallout from earnings plays out
+
+#### Trade plan
+
+Close at ~60% of max profit or get assigned. If the run up continues and the price is hit this week, I may roll out this position to collect more premium before being potentially assigned
+
+![UPST Chart](/trading-log/docs/assets/2024-08-13-upst.png)
