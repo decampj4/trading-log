@@ -560,3 +560,23 @@ Continue to take advantage of the $UPST run up. I am happy to sell a portion of 
 Close at ~60% of max profit or get assigned. If the run up continues and the price is hit this week, I may roll out this position to collect more premium before being potentially assigned
 
 ![UPST Chart](/trading-log/docs/assets/2024-08-13-upst.png)
+
+## 2024-08-15
+
+### Bought to close $UPST August 23 2024 41 Call
+
+This position was closed automatically
+
+## 2024-08-16
+
+### Sold to close $UPST shares
+
+This position has been good to me and it was time to take that capital and put it somewhere less risky in the long term. $UPST's long term outlook looks good, but however much a rate cut might be a tailwind for the company, they still aren't profitable, which is a huge risk if we might tip into a recession. Moreover, they still carry a lot of consumer debt on their balance sheet, which also seems like a big risk if they got their credit profiles wrong. Even if most of their modeling is great, unemployment ticking up isn't great for a company with a lot of consumer credit exposure. A good company that I will continue to watch for sure though.
+
+### Sold to open $TQQQ September 13 2024 64 Put
+
+This is the beginning of DCAing into TQQQ. On one hand, this represents a hugely volatile position, but in the long term, especially through DCAing and entering the position by selling puts, it mitigates the chance of having a painfully high average cost. This position is designed to be a long term buy and hold
+
+#### Trade plan
+
+Close at ~60% of max profit or get assigned
