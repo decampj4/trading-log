@@ -580,3 +580,20 @@ This is the beginning of DCAing into TQQQ. On one hand, this represents a hugely
 #### Trade plan
 
 Close at ~60% of max profit or get assigned
+
+## 2024-09-04
+
+### $TQQQ positions
+
+I have closed all $TQQQ positions. I was long and didn't want to be as we see whether or not the roll from tech to small caps takes place over the next 4 to 6 months
+
+### Sold to open $UPST September 20 2024 34 Put
+
+I'm back on the $UPST bandwagon. It's dropped significantly since its runup to above $45 a share. At this point, I like the ability to short volatility and go long theta. In the worst case, I end up long this stock at a reasonable
+price.
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-04-upst.png)
