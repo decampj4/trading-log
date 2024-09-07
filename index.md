@@ -597,3 +597,25 @@ price.
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-09-04-upst.png)
+
+## 2024-09-06
+
+### Sold to open $UPST September 20 2024 33 Put
+
+Picked up about the same amount of credit that I did on the $34 put that I sold earlier this week, which continues to allow me some flexibility in this position. I'm now at the maximum exposure that I want to $UPST at this point, so we'll see whether or not the markets dictate a roll or assignment
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-06-upst.png)
+
+### Sold to open $NVDA October 18 2024 100 Put
+
+This position is just a Tastytrade classic position. Sell the ~45 DTE put on an underlying with elevated volatility and then take profits at %50 of max profit. Add on the fact that $100 is a psychologically important number and $NVDA
+
+#### Trade plan
+
+Close at ~50% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-06-nvda.png)
