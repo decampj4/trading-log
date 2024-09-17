@@ -619,3 +619,37 @@ This position is just a Tastytrade classic position. Sell the ~45 DTE put on an 
 Close at ~50% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-09-06-nvda.png)
+
+## 2024-09-10
+
+### Rolled $UPST September 20 2024 34 Put and September 20 2024 33 Put to October 4 2024 33 Puts
+
+This is a defensive roll to protect myself from potential CPI volatility and pick up some more credit in the process
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-10-upst.png)
+
+### Bought to close $NVDA October 18 2024 100 Put
+
+Another snap judgement call here. I had already made ~33% of max profit in less than 5 days, so it made sense to close this and potentially reopen an $NVDA short put if we get some bad CPI data. Moreover, it reduces my downside risk in the case of bad CPI data
+
+## 2024-09-11
+
+### Sold to open $UPRO October 11 2024 65 Put
+
+Took advantage of the drop to go long theta, long the market, and short volatility.
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-11-upro.png)
+
+## 2024-09-12
+
+### Bought to close $UPRO October 11 2024 65 Put
+
+Hit my price target
