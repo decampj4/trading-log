@@ -653,3 +653,9 @@ Close at ~60% of max profit or roll
 ### Bought to close $UPRO October 11 2024 65 Put
 
 Hit my price target
+
+## 2024-09-17
+
+### Bought to close $UPST October 4 2024 33 Puts
+
+Hit my price target
