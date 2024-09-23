@@ -659,3 +659,15 @@ Hit my price target
 ### Bought to close $UPST October 4 2024 33 Puts
 
 Hit my price target
+
+## 2024-09-23
+
+### Sold to open $UPST October 18 2024 33 Put
+
+As always, yet another opportunity to get long delta, short vol, and long theta with $UPST. It's come down again from recent highs and the lower delta and 25 DTE give me options to DCA into this position or roll depending on how $UPST moves over the coming week
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-23-upst.png)
