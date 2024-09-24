@@ -662,7 +662,7 @@ Hit my price target
 
 ## 2024-09-23
 
-### Sold to open $UPST October 18 2024 33 Put
+### Sold to open $UPST October 18 2024 35 Put
 
 As always, yet another opportunity to get long delta, short vol, and long theta with $UPST. It's come down again from recent highs and the lower delta and 25 DTE give me options to DCA into this position or roll depending on how $UPST moves over the coming week
 
@@ -671,3 +671,15 @@ As always, yet another opportunity to get long delta, short vol, and long theta 
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-09-23-upst.png)
+
+## 2024-09-24
+
+### Sold to open $UPST October 18 2024 35 Put
+
+The ~4% drop in $UPST offerred a good opportunity to DCA into this position, as I mentioned yesterday. I'm still not at my max allocation to this position, so I'll continue to look for opportunities to DCA
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-24-upst.png)
