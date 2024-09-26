@@ -686,7 +686,7 @@ Close at ~60% of max profit or roll
 
 ## 2024-09-26
 
-### Sold to open $UPST October 18 2024 35 Put
+### Sold to open $UPST October 25 2024 35 Put
 
 Continue to DCA into my short vol, long delta and theta position in $UPST. I extended the duration slightly to pick up more of a credit and diversify my expirations. Still haven't hit my max allocation to this position, so I'll look to add more to my overall $UPST position over the coming week
 
@@ -695,3 +695,7 @@ Continue to DCA into my short vol, long delta and theta position in $UPST. I ext
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-09-26-upst.png)
+
+### Bought to close $UPST October 18 2024 35 Puts
+
+This came close to my price target and was an opportunity to take advantage of the ~3% run up the $UPST experienced in the afternoon. This also removes risk from this position and allows even more room to allocate to this position should $UPST experience another downturn
