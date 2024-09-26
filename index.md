@@ -699,3 +699,7 @@ Close at ~60% of max profit or roll
 ### Bought to close $UPST October 18 2024 35 Puts
 
 This came close to my price target and was an opportunity to take advantage of the ~3% run up the $UPST experienced in the afternoon. This also removes risk from this position and allows even more room to allocate to this position should $UPST experience another downturn
+
+### Bought to close $UPST October 25 2024 35 Put
+
+I made over 25% in one day, so it made sense to take the win
