@@ -703,3 +703,15 @@ This came close to my price target and was an opportunity to take advantage of t
 ### Bought to close $UPST October 25 2024 35 Put
 
 I made over 25% in one day, so it made sense to take the win
+
+## 2024-09-27
+
+### Sold to open $UPST October 18 2024 36 Put
+
+Back on the $UPST train. This is probably overly aggressive, but with a small drop and a significant ability to DCA into this position after all of my $UPST positions were taken off yesterday, I can afford to be a little bit aggressive. I can always roll out as well given that this position was sold with 21 DTE
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-27-upst.png)
