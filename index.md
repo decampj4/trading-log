@@ -715,3 +715,27 @@ Back on the $UPST train. This is probably overly aggressive, but with a small dr
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-09-27-upst.png)
+
+## 2024-09-30
+
+### Sold to open $UPST October 18 2024 37 Put
+
+Another aggressive $UPST trade to take advantage of a selloff
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-09-30-upst.png)
+
+## 2024-10-01
+
+### Sold to open $UPST October 18 2024 36 Put
+
+Sold 2 more puts to take advantage of the $UPST sell off. I'm now at my max allocation to this position
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-10-01-upst.png)
