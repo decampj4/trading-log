@@ -739,3 +739,9 @@ Sold 2 more puts to take advantage of the $UPST sell off. I'm now at my max allo
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-10-01-upst.png)
+
+## 2024-10-07
+
+### Bought to close $UPST October 18 2024 36 Puts
+
+These puts closed automatically when they hit my price target
