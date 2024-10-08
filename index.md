@@ -745,3 +745,9 @@ Close at ~60% of max profit or roll
 ### Bought to close $UPST October 18 2024 36 Puts
 
 These puts closed automatically when they hit my price target
+
+## 2024-10-08
+
+### Bought to close $UPST October 18 2024 37 Put
+
+This put closed automatically when it hit my price target
