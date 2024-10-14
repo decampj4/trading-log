@@ -751,3 +751,21 @@ These puts closed automatically when they hit my price target
 ### Bought to close $UPST October 18 2024 37 Put
 
 This put closed automatically when it hit my price target
+
+## 2024-10-10
+
+### Sold to open $UPST November 8 2024 36 Put
+
+Sold 2 more puts to take advantage of a small the $UPST sell off as well as the increased volatility due to earnings occuring during this expiration. I had no exposure to $UPST and this gives me some
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-10-10-upst.png)
+
+## 2024-10-14
+
+### Bought to close $UPST November 8 2024 36 Put
+
+This put closed automatically when it hit my price target
