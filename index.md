@@ -769,3 +769,15 @@ Close at ~60% of max profit or roll
 ### Bought to close $UPST November 8 2024 36 Put
 
 This put closed automatically when it hit my price target
+
+## 2024-10-15
+
+### Sold to open $NVDA November 22 2024 112 Put
+
+Sold a put to take advantage of the drop in $NVDA (caused by the $ASML pre-announcing weak earnings). $112 is an attractive price to own $NVDA at and I can DCA into this position if I get an opportunity. If not, I have long delta and theta on $NVDA
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![NVDA Chart](/trading-log/docs/assets/2024-10-15-nvda.png)
