@@ -781,3 +781,29 @@ Sold a put to take advantage of the drop in $NVDA (caused by the $ASML pre-annou
 Close at ~60% of max profit or roll
 
 ![NVDA Chart](/trading-log/docs/assets/2024-10-15-nvda.png)
+
+## 2024-10-14
+
+### Bought to close $NVDA November 22 2024 112 Put
+
+I hit 30% of max profit in 1 day, so it seemed greedy to not just take the win
+
+### Sold to open $PLTR November 8 2024 38 Put
+
+Gives me earnings exposure and I don't mind owning $PLTR here. I plan to DCA into this position if any opportunities present themselves
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![PLTR Chart](/trading-log/docs/assets/2024-10-16-pltr.png)
+
+### Sold to open $TLT November 29 2024 95 Put
+
+Inflation seems to be coming down consistently and the Fed cutting cycle has started in earnest. This position gives me long exposure to treasuries and if I end up owning at this price, I don't mind that either
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![TLT Chart](/trading-log/docs/assets/2024-10-16-tlt.png)
