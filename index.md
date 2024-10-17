@@ -807,3 +807,21 @@ Inflation seems to be coming down consistently and the Fed cutting cycle has sta
 Close at ~60% of max profit or roll
 
 ![TLT Chart](/trading-log/docs/assets/2024-10-16-tlt.png)
+
+## 2024-10-17
+
+### Bought to close $TLT November 29 2024 95 Put
+
+With the small sell off in $TLT today, I just got cold feet. I'm effectively long $TLT by being long $IWM (the underlying assumption being that a drop in rates is good for small caps).
+Plus, the IV in the options seems to be lower than the realized/historic volatility of $TLT at this point. Overall, I put myself in a dumb position by selling this put, so it made sense to just take the loss
+and move on
+
+### Sold to open $UPST November 8 2024 40 Put
+
+Re-entering the $UPST earnings trade with the ~5% sell off today. This also allows me to pick up some premium after closing the $TLT position
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-10-17-upst.png)
