@@ -825,3 +825,7 @@ Re-entering the $UPST earnings trade with the ~5% sell off today. This also allo
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-10-17-upst.png)
+
+### Bought $NFLX 2024-10-18/2024-10-25 Calendar Put Spread
+
+This is a simple volatility collapse play for earnings. This is a gamble that $NFLX earnings will fall within the expected move and I'll be able to capitalize on the volatility crush post earnings, hence selling the calendar spread at the money
