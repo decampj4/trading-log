@@ -826,6 +826,25 @@ Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-10-17-upst.png)
 
-### Bought $NFLX 2024-10-18/2024-10-25 Calendar Put Spread
+### Bought to open $NFLX 2024-10-18/2024-10-25 Calendar Put Spread
 
 This is a simple volatility collapse play for earnings. This is a gamble that $NFLX earnings will fall within the expected move and I'll be able to capitalize on the volatility crush post earnings, hence selling the calendar spread at the money
+
+## 2024-10-18
+
+### Sold to close $NFLX 2024-10-18/2024-10-25 Calendar Put Spread
+
+Closed this position in the morning. Unfortunately, $NFLX exceeded the expected move and crushed volatility on both the bought and sold put, so there was nothing to do but take the loss.
+
+## 2024-10-23
+
+### Sold to open $UPST November 8 2024 40 Put
+
+Just DCAing into this position on a slight pullback
+
+## 2024-10-25
+
+### Bought to close $PLTR November 8 2024 38 Put
+
+This hit 50% of max profit, so it made sense to just take it off before earnings. Moreover, this repurchase decreases my overall portfolio risk going into a weekend of potentially escalating geopolitical events and
+decreases risk before the US elections
