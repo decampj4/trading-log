@@ -848,3 +848,21 @@ Just DCAing into this position on a slight pullback
 
 This hit 50% of max profit, so it made sense to just take it off before earnings. Moreover, this repurchase decreases my overall portfolio risk going into a weekend of potentially escalating geopolitical events and
 decreases risk before the US elections
+
+## 2024-10-28
+
+### Bought to close $UPST November 8 2024 40 Put
+
+Takes advantage of the 5% run up in $UPST (took profit at ~40% of max profit, which is slightly below where I was targeting an exit). This move also reduces some risk
+
+## 2024-10-29
+
+### Sold to open $UPST November 15 2024 40 Put
+
+Same logic as always with $UPST. I think $40 per share is a fair value for $UPST and this takes advantage of the ~5% drop in $UPST this morning. As always, it allows me to get short volatility, long delta, and long theta on $UPST
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-10-29-upst.png)
