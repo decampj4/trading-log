@@ -866,3 +866,21 @@ Same logic as always with $UPST. I think $40 per share is a fair value for $UPST
 Close at ~60% of max profit or roll
 
 ![UPST Chart](/trading-log/docs/assets/2024-10-29-upst.png)
+
+## 2024-11-07
+
+### Bought to close $UPST November 15 2024 40 Put
+
+These options hit my price target
+
+## 2024-11-26
+
+### Sold to open $UPST December 24 2024 65 Put
+
+No change, another $UPST play. A support level seems to be forming, post earnings, around $65. Plus, this represents ~19 delta, so low-ish risk. Theta should also eat through these options with all of the holidays. As always, I have room to DCA into this position
+
+#### Trade plan
+
+Close at ~60% of max profit or roll
+
+![UPST Chart](/trading-log/docs/assets/2024-11-26-upst.png)
